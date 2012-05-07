@@ -1,0 +1,26 @@
+◊‘Œ“ΩÈ…‹
+
+	My name is zhangmingming, a student from Suzhou University,
+and have got my bachelor degree in March 2008.
+        I have four years java work experience, and still study hard outside of working time.
+	Now I can use struts2,spring,mybatis,hibernate etc.[et cetera] skillfully, familiar with jvm 
+such as java memory management, javascript, jquery, mysql, sqlserver, git, svn, handson, php, android.
+
+
+fangdd crm 
+
+	The system is mainly to achieve the company, real estate agents and developers to manage the customer.
+Built by jquery, struts2, spring, hibernate and complex queries such as statistics we use mybatis.
+Jbpm realize workflow such as commission workflow etc.[et cetera].
+hessian realize web service.
+The database use mysql, web server use nginx and the servlet container use tomcat
+
+	As team leader, I participate in the needs analysis[?'n?l?sis], database design, code architecture, distribution module to team members.
+
+	
+fangdd news system
+
+	The system is mainly to achieve the news management of web and crm, built by the alibaba open soa framework project dubbo.
+Database Design use Lazy storage to Improve performance
+
+	i participate in the needs analysis, database design, 
